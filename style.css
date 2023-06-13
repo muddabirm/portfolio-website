@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(53, 164, 238);
+}
+
+.section-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#nav ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding-inline: 10px;
+}
+
+h2{
+    background-color: rgba(28, 28, 189, 0.212);
+   font: 2em sans-serif;
+   padding: 25px 25px;
+}
+.section-2{
+    background-color: rgba(28, 28, 189, 0.212);
+    position: absolute;
+}
